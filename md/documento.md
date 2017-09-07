@@ -77,9 +77,9 @@ El registro público permitiría:
     de mejoramiento de un documento.
 
 El *acceso libre* permitiría:
-  - No solo el acceso abierto, donde es permisible el uso, estudio y
-    distribución (libertades 0-3), sino también la posibilidad de que cada
-    documento pueda ser modificado (libertad 4) sin que esto permita la
+  - No solo el *acceso abierto*, donde es permisible el uso, estudio y
+    distribución (libertades 0-2), sino también la posibilidad de que cada
+    documento pueda ser modificado (libertad 3) sin que esto permita la
     suplantación.
   - La posibilidad de transmisión sin restricción al mismo tiempo que existe
     el impedimiento de la «distorsión» externa o del ocultamiento intencional 
