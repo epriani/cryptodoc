@@ -10,7 +10,49 @@
     - El vínculo como comprensión.
     - El vínculo como control.
 
-    > Ojo: descripción general y remitir a «[Propiedad intelectual y currículo](https://github.com/NikaZhenya/Escritos/tree/master/03-Propiedad_intelectual_y_curriculo)».
+>   - Suspender la definición tradicional de la PI y trabajar a partir de Bataille.
+>     - Discontinuidad, saber como trabajo.
+>       - El saber como trabajo puede ayudar a percibir al vínculo del creador y
+>         lo creado como un fenómeno cultural más amplio.
+>     - Si el núcleo duro de la PI es el vínculo inalienable entre el creador y
+>     lo creado, y no «la expresión concreta de una idea», se desprende que:
+>     - La justificación de la PI no es un conjunto de citas de filósofos o
+>       intelectuales, sino una idea con historia.
+>     - La genealogía de la PI es rastreable desde la antigüedad, conformándose
+>       como una «expresión» o un «fenómeno» fruto de una circunstancia 
+>       constituida a partir de la modernidad.
+>     - La genealogía permitiría comprender la idea y la justificación de la PI,
+>       observar sus posibilidades y sus límites.
+>   - Genealogía:
+>     - El vínculo surge por una necesidad de autenticidad de la obra.
+>       - La labor doxográfica como criterio para validar el vínculo entre el
+>         creador y lo creado: transmisión oral y escrita del conocimiento.
+>     - El vínculo se constituye como un criterio de autoridad.
+>       - El vínculo pasa a un plano intelectual que legitima la opinión de los
+>         creadores: nacimiento de dogmas, como la normalización de la
+>         extrapolación del acto creativo como acto directivo.
+>     - El vínculo se reconstruye como un criterio hermenéutico.
+>       - El vínculo pasa a un plano cognoscitivo para la comprensión de la 
+>         creación «concreta», su «creador», su «contexto», (¿verdad semántica
+>         y pragmática?), y no solo a la obra «en sí y para sí» (¿verdad
+>         sintáctica?): de la hermenéutica bíblica a la hermenéutica existencial
+>         y la conformación de acto creativo como acto inalienable.
+>     - El vínculo a la par se conforma como un criterio de control.
+>       - El vínculo se gesta como poder político, supone una política de cosas,
+>         pero es una política de relaciones, como el vínculo mismo:
+>         la función-autor como punto de control no solo para la comprensión,
+>         sino también para el acceso a la creación, el acto creativo como
+>         voluntad de poder (?).
+>   - ¿Qué se puede desprender?
+>     - El fenómeno de la intencionalidad no solo *mienta* algo, sino que también
+>       lo *usa*, desde la acepción más burda hasta la más sutil (normalizada)
+>       del término.
+>     - Es posible retomar sus orígenes para visibilizar y quizá depurar el
+>       carácter autoritario del vínculo:
+>       - Si el vínculo tiene sus orígenes por la necesidad de autenticidad, 
+>         es posible ahora esa autenticidad sin recurrir a ninguna clase de
+>         centralización ni de vínculo, sino que la creación por sí misma se
+>         autoidentifique y se autoautentique: red, criptografía y documentos.
 
 2. Breve descripición de Bitcoin
     - Uso de «Bitcoin» para referir a la red y a «bitcoin» para la moneda.
