@@ -1,6 +1,6 @@
 # Cryptodoc
 
-## Cómo Bitcoin podría ayudar en el *acceso libre* del conocimiento
+## Cómo Bitcoin y Altcoins podrían ayudar en el *acceso libre* del conocimiento
 
 ## Licencia
 
