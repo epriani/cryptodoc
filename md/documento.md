@@ -1,6 +1,6 @@
 # Cryptodoc
 
-## Cómo Bitcoin podría ayudar en el *acceso libre* del conocimiento
+## Cómo Bitcoin y Altcoins podrían ayudar en el *acceso libre* del conocimiento
 
 ## Posible estructura
 
@@ -54,15 +54,8 @@
 >         centralización ni de vínculo, sino que la creación por sí misma se
 >         autoidentifique y se autoautentique: red, criptografía y documentos.
 
-2. Breve descripición de Bitcoin
-    - Uso de «Bitcoin» para referir a la red y a «bitcoin» para la moneda.
-    - Descripción lo menos técnica posible.
-    - Descripción técnica en lo que es más importante para Cryptodoc.
-    - Algunas desventajas de Bitcoin con el uso diario de la moneda.
-
-    > Ojo: descripción general y remitir a otras fuentes.
-
-3. Criptografía, edición y *acceso libre*.
+2. Criptografía, edición y *acceso libre*. (Implícito estarán los aspectos
+   relevantes de Bitcoin y Altcoins para Cryptodoc).
     - Autenticidad sin vínculo.
     - Libertad sin control.
     - Aparato técnico.
@@ -77,8 +70,8 @@ tres elementos importantes:
   - Vectores.
   - Nodos.
 
-Si en la red descentralizada y encriptada de Bitcoin:
-  - La información es la criptomoneda bitcoin.
+Si en la red descentralizada y encriptada de Bitcoin/Altcoins:
+  - La información es la criptomoneda bitcoin/altcoins.
   - Los vectores son transacciones monetarias.
   - Los nodos son cuentas monetarias.
 
@@ -110,13 +103,15 @@ La encriptación permitiría:
   - El anonimato por elección de los nodos, principalmente si se trata de 
     problemas relacionados a la infracción de derechos de autor.
 
-El registro público permitiría:
+El registro público permitiría (*blockchain*):
   - Un conocimiento puntual de las modificaciones que ha sufrido un documento.
   - La transparencia en los vectores por los cuales ninguna transmisión puede
     salir de la luz pública.
   - El conocimiento de las acciones realizadas por cada nodo, más puntualmente 
     si este modifica información: se conocería la fuente de tergiversación o 
     de mejoramiento de un documento.
+=> OJO: puede que el *blockchain* esté encryptado, como en Monero, para evitar
+   problemas de «violación de derechos de autor».
 
 El *acceso libre* permitiría:
   - No solo el *acceso abierto*, donde es permisible el uso, estudio y
